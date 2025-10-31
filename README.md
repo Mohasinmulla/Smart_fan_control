@@ -40,13 +40,8 @@ Users can switch between **Automatic Mode** (temperature-based control) and **Ma
 7. Configure thresholds or adjust fan speed in Blynk.
 
 ## Working Video Demo
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/8b232146-4985-4f6e-a165-359daca6cdf5" width="800">
-    </td>
-  </tr>
-</table>
+
+[![Smart Fan Control Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 
 ## Usage
 - Monitor temperature and humidity via Blynk.  
