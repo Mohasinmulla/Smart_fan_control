@@ -41,7 +41,7 @@ Users can switch between **Automatic Mode** (temperature-based control) and **Ma
 
 ## Working Video Demo
 
-[![Smart Fan Control Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+https://github.com/user-attachments/assets/99ea2a04-89d6-4719-9bd0-160f0f505e03
 
 ## Usage
 - Monitor temperature and humidity via Blynk.  
